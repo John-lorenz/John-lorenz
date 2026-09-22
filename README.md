@@ -42,10 +42,6 @@ Na **ModallPort** (mar/2024 — atual), lidero a evolução do software de opera
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,git,github,azure,docker,visualstudio" alt="Tecnologias" />
-</p>
-
 **Arquitetura:** Clean Architecture · DDD · CQRS · MediatR · REST · Unit of Work · Repository  
 **Back-end:** C# · .NET 8 / ASP.NET Core · ASP.NET MVC · EF Core · LINQ · NuGet  
 **Front-end:** React · TypeScript · JavaScript · Razor Pages · jQuery · HTML5/CSS3  
@@ -67,13 +63,6 @@ Na **ModallPort** (mar/2024 — atual), lidero a evolução do software de opera
 - **Microsoft Azure Developer Associate (AZ-204)** — em andamento
 
 Português nativo · Inglês intermediário (leitura e escrita técnicas)
-
-### GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=John-lorenz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-lorenz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
 
 ### Contato
 
